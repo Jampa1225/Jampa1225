@@ -1,5 +1,5 @@
 <p align="center">
-   <b>Hi 👋, I'm Jampa Rakesh</b>
+   <h1 style="font-size: 36px; font-weight: bold;">Hi 👋, I'm Jampa Rakesh</h1>
 </p>
    
 * 🔭 I’m keenly interested in Data Analytics and Machine Learning.
@@ -15,3 +15,4 @@
    <a href="https://www.kaggle.com/rakeshjampa">Kaggle</a> |
    <a href="https://medium.com/@jamparakesh79">Medium</a>
 </p>
+
