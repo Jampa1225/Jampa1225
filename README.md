@@ -2,7 +2,7 @@
    <h1 style="font-size: 36px; font-weight: bold;">Hi 👋, I'm Jampa Rakesh</h1>
 </p>
    
-* 🔭 I’m keenly interested in Data Analytics and Machine Learning.
+* 🔭 I’m keenly interested in Data Analytics | Data Scientist | Machine Learning |.
 * 🌱 I’m currently learning Advance Deep Learning , Tensorflow , OpenCV, Web Development and Machine Learning.
 * 👯 I’m looking to collaborate on Projects.
 * 📫 How to reach me rakeshjampa191@yahoo.com
